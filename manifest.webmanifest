@@ -1,0 +1,19 @@
+{
+  "name": "Ôn thi trắc nghiệm Quốc phòng",
+  "short_name": "Ôn thi Quốc phòng",
+  "description": "Ôn thi trắc nghiệm Quốc phòng, hỗ trợ học offline",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0f766e",
+  "lang": "vi",
+  "icons": [
+    {
+      "src": "assets/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
